@@ -35,14 +35,28 @@
                         <a data-drawer="messages" class="drawer-toggle" href="">
                             <i class="sa-top-message"></i>
                             <i class="n-count animated">5</i>
-                            <span>Messages</span>
+                            <span>查看网店</span>
                         </a>
                     </div>
                     <div class="pull-left tm-icon">
                         <a data-drawer="notifications" class="drawer-toggle" href="">
                             <i class="sa-top-updates"></i>
                             <i class="n-count animated">9</i>
-                            <span>Updates</span>
+                            <span>更新静态</span>
+                        </a>
+                    </div>
+                    <div class="pull-left tm-icon">
+                        <a data-drawer="notifications" class="drawer-toggle" href="">
+                            <i class="sa-top-updates"></i>
+                            <i class="n-count animated">9</i>
+                            <span>清除缓存</span>
+                        </a>
+                    </div>
+                    <div class="pull-left tm-icon">
+                        <a data-drawer="notifications" class="drawer-toggle" href="">
+                            <i class="sa-top-updates"></i>
+                            <i class="n-count animated">9</i>
+                            <span>退出</span>
                         </a>
                     </div>
                     <div id="time" class="pull-right">
@@ -178,7 +192,7 @@
                             <li><a href="form-validation.html">标签管理</a></li>
                             <li><a href="form-validation.html">虚拟商品列表</a></li>
                             <li><a href="form-validation.html">添加虚拟商品</a></li>
-                            <li><a href="form-validation.html">更改加密串</a></li>
+                            <li><a href="form-validation.html">降价通知列表</a></li>
                             <li><a href="form-validation.html">商品自动上下架</a></li>
                         </ul>
                     </li>
@@ -187,14 +201,14 @@
                             <span class="menu-item">促销管理</span>
                         </a>
                         <ul class="list-unstyled menu-item">
-                            <li><a href="form-elements.html">商品列表</a></li>
-                            <li><a href="form-components.html">添加商品</a></li>
-                            <li><a href="form-examples.html">商品分类</a></li>
-                            <li><a href="form-validation.html">用户评论</a></li>
-                            <li><a href="form-validation.html">商品品牌</a></li>
-                            <li><a href="form-validation.html">商品属性</a></li>
-                            <li><a href="form-validation.html">商品回收站</a></li>
-                            <li><a href="form-validation.html">图片批量处理</a></li>
+                            <li><a href="form-elements.html">红包类型</a></li>
+                            <li><a href="form-components.html">专题管理</a></li>
+                            <li><a href="form-examples.html">拍卖活动</a></li>
+                            <li><a href="form-validation.html">优惠活动</a></li>
+                            <li><a href="form-validation.html">超值礼包</a></li>
+                            <li><a href="form-validation.html">积分商城商品</a></li>
+                            <li><a href="form-validation.html">储值卡管理</a></li>
+                            <li><a href="form-validation.html">预售管理</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -210,6 +224,7 @@
                             <li><a href="form-validation.html">添加订单</a></li>
                             <li><a href="form-validation.html">发货单列表</a></li>
                             <li><a href="form-validation.html">退货单列表</a></li>
+                            <li><a href="form-validation.html">快递单列表</a></li>
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -258,6 +273,7 @@
                             <li><a href="form-components.html">添加会员</a></li>
                             <li><a href="form-examples.html">会员等级</a></li>
                             <li><a href="form-validation.html">会员留言</a></li>
+                            <li><a href="form-validation.html">快递员列表</a></li>
                             <li><a href="form-validation.html">充值、提现和申请</a></li>
                             <li><a href="form-validation.html">资金管理</a></li>
                         </ul>

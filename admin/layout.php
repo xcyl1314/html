@@ -33,7 +33,7 @@
                 <div class="media" id="top-menu">
                     <div class="pull-left tm-icon">
                         <a data-drawer="messages" class="drawer-toggle" href="">
-                            <i class="sa-top-message"></i>
+                            <i class="sa-top-viewstore"></i>
                             <i class="n-count animated">5</i>
                             <span>查看网店</span>
                         </a>

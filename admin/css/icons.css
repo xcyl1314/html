@@ -39,7 +39,7 @@
 .sa-side-chart { background-image: url(../img/icon/chart.png); }
 .sa-side-photos { background-image: url(../img/icon/photos.png); }
 
-/* add */
+/* add by 2/24 2016*/
 .sa-side-sale { background-image: url(../img/icon/sale.png); background-size: 25px 25px;}
 .sa-side-order { background-image: url(../img/icon/order.png); background-size: 25px 25px;}
 .sa-side-ad { background-image: url(../img/icon/ad.png); background-size: 25px 25px;}
@@ -61,6 +61,9 @@
 }
 .sa-top-message { background-image: url(../img/icon/message.png); }
 .sa-top-updates { background-image: url(../img/icon/updates.png); }
+
+/*add by 2/26 2016*/
+.sa-top-viewstore { background-image: url(../img/icon/viewstore.png); }
 
 /* Editor */
 [class*="editor-"] {

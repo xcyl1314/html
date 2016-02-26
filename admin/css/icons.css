@@ -63,7 +63,11 @@
 .sa-top-updates { background-image: url(../img/icon/updates.png); }
 
 /*add by 2/26 2016*/
-.sa-top-viewstore { background-image: url(../img/icon/viewstore.png); }
+.sa-top-viewstore { background-image: url(../img/icon/viewstore.png); background-size: 25px 25px;}
+.sa-top-update { background-image: url(../img/icon/update.png); background-size: 25px 25px;}
+.sa-top-clear { background-image: url(../img/icon/clear.png); background-size: 25px 25px;}
+.sa-top-logout { background-image: url(../img/icon/logout.png); background-size: 25px 25px;}
+
 
 /* Editor */
 [class*="editor-"] {

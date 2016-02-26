@@ -40,21 +40,21 @@
                     </div>
                     <div class="pull-left tm-icon">
                         <a data-drawer="notifications" class="drawer-toggle" href="">
-                            <i class="sa-top-updates"></i>
+                            <i class="sa-top-update"></i>
                             <i class="n-count animated">9</i>
                             <span>更新静态</span>
                         </a>
                     </div>
                     <div class="pull-left tm-icon">
                         <a data-drawer="notifications" class="drawer-toggle" href="">
-                            <i class="sa-top-updates"></i>
+                            <i class="sa-top-clear"></i>
                             <i class="n-count animated">9</i>
                             <span>清除缓存</span>
                         </a>
                     </div>
                     <div class="pull-left tm-icon">
                         <a data-drawer="notifications" class="drawer-toggle" href="">
-                            <i class="sa-top-updates"></i>
+                            <i class="sa-top-logout"></i>
                             <i class="n-count animated">9</i>
                             <span>退出</span>
                         </a>
